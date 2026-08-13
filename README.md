@@ -70,7 +70,10 @@ end;
 ZBUS=Zbus
 ```
 # OUTPUT:
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/463d949f-ec1f-4a9d-9032-5f118d10e920" />
+
 
 # RESULT: 
 Bus impedance Matrix for the given network is formed using Mat Lab program and 
 verified the calculated values with the output result.
+
